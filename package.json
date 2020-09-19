@@ -1,0 +1,33 @@
+{
+  "name": "kindful-thermometer",
+  "version": "1.0.0",
+  "description": "Simple fundraising thermometer using Kindful's public API.",
+  "main": "kindful-thermometer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cskyleryoung/kindful-thermometer.git"
+  },
+  "keywords": [
+    "Kindful",
+    "fundraising",
+    "meter",
+    "thermometer"
+  ],
+  "author": "C. Skyler Young",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/Cskyleryoung/kindful-thermometer/issues"
+  },
+  "homepage": "https://github.com/Cskyleryoung/kindful-thermometer#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "terser-webpack-plugin": "^2.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
