@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Kinful Fundraising Meter
+ * Plugin Name: Kindful Fundraising Meter
  * Author: C. Skyler Young
  * Description: Simple widget, displayed via shortcode, that displays a fundraising meter for public campaigns in Kindful.
  */
