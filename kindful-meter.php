@@ -10,7 +10,7 @@ namespace sv;
 function kindful_meter_init( $atts ) {
 
     // Add script
-    wp_enqueue_script( 'sv-kindful-meter', plugin_dir_url( __FILE__ ) . 'kindful-meter.js', null, null, true );
+    wp_enqueue_script( 'sv-kindful-meter', plugin_dir_url( __FILE__ ) . 'kindful-meter.js', Array(), false, true );
 
     // Define Attributes
     $a = shortcode_atts( array(
